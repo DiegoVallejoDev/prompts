@@ -10,8 +10,8 @@ Prompts range from serious and analytical to creative or humorous. All follow a 
 
 ### 🎯 Analytical & Structured
 
-- [`axiomatic-reasoning.prompt.txt`](axiomatic-reasoning.prompt.txt)  
-  Enforces rigorous, source-diversified reasoning for subjective claims, events, and statistics using a liberty-first, anti-authoritarian framework. Prioritizes axiomatic logic, clarity, and structure over social desirability or consensus.
+- [`axiomatic-reasoning.prompt.txt`](axiomatic-reasoning.prompt.txt)    
+  Enforces rigorous, source-diversified reasoning for subjective claims, current events, and statistics using a liberty-first, anti-authoritarian framework. Prioritizes axiomatic logic, clarity, and structural integrity over consensus, moral filtering, or rhetorical convention. Assumes systemic media bias by default. Rejects appeals to authority and the middle ground fallacy. Designed for high-fidelity analysis of complex, controversial, or politicized topics using recursive, deductive reasoning rooted in property, consent, and logic.
 
 *(More analytical prompts will be listed here as added.)*
 
